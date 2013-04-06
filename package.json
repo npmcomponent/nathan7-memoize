@@ -1,0 +1,16 @@
+{
+  "name": "memoize",
+  "version": "1.0.0",
+  "description": "underscore's memoize",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/memoize.git"
+  },
+  "keywords": [
+    "memoize",
+    "function",
+    "utility"
+  ],
+  "license": "MIT"
+}

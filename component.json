@@ -1,0 +1,13 @@
+{
+  "name": "memoize",
+  "repo": "nathan7/memoize",
+  "description": "underscore's memoize",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
